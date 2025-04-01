@@ -303,7 +303,7 @@ footer {
     height: 100%;
     background: linear-gradient(to right, var(--primary), var(--accent));
     border-radius: 10px;
-    width: 75%;
+    width: 100%;
     position: relative;
     animation: pulse 2s infinite;
 }
